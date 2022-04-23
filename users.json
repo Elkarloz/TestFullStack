@@ -1,0 +1,3 @@
+{"_id":{"$oid":"626081345f5910b356b01f89"},"userEmail":"admin","userPassword":"123","userRol":"admin","__v":0}
+{"_id":{"$oid":"62608412c7024007b048e5f4"},"userEmail":"croameneses@gmail.com","userPassword":"3134102488","userRol":"user","__v":0}
+{"_id":{"$oid":"62618d0820fd78bde181329b"},"userEmail":"a","userPassword":"123","__v":0}
