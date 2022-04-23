@@ -1,0 +1,28 @@
+.ant-carousel .slick-slide {
+  text-align: center;
+  height: 100vh;
+  line-height: 160px;
+  background: #fff;
+
+  overflow: hidden;
+}
+
+.ant-carousel .slick-slide h3 {
+  color: #fff;
+}
+
+#reimagen1 {
+  height: 100vh;
+  background-image: url("../img/numer1.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+#reimagen2 {
+  height: 100vh;
+  background-image: url("../img/numer2.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}

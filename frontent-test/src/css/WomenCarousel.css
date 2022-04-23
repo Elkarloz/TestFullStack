@@ -1,0 +1,13 @@
+#men {
+  display: block;
+  height: 600px;
+  padding-top: 5%;
+  margin-left: 30%;
+  overflow: scroll;
+}
+
+#women {
+  display: block;
+  height: 600px;
+  overflow: scroll;
+}

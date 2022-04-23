@@ -1,0 +1,99 @@
+@font-face {
+  font-family: "Brickson ";
+  src: url("../Brickson.ttf") format("truetype");
+}
+
+* {
+  font-family: "Brickson";
+}
+
+.site-layout-content {
+  min-height: 100vh;
+  padding: 24px;
+  background: #fff;
+}
+#components-layout-demo-top .logo {
+  float: left;
+  width: 120px;
+  height: 31px;
+  margin: 16px 24px 16px 0;
+  background: rgba(255, 255, 255, 0.3);
+}
+.ant-row-rtl #components-layout-demo-top .logo {
+  float: right;
+  margin: 16px 0 16px 24px;
+}
+
+.headerStyle {
+  background: #e7ab3c;
+}
+
+.ant-menu-horizontal {
+  background: #e7ab3c;
+  border-bottom: 1px solid #e7ab3c;
+}
+
+.section {
+  height: 200vh;
+  background: #ffffff;
+}
+
+.space-in {
+  padding-top: 10%;
+  margin-left: 5%;
+  margin-right: 15%;
+  padding-bottom: 8%;
+}
+
+.space-in-2 {
+  padding-top: 8%;
+  margin-left: 10%;
+  margin-right: 15%;
+}
+
+#img-baner:hover {
+  cursor: pointer;
+  padding: 5px;
+  filter: blur(1px);
+}
+
+#img-women {
+  width: 280px;
+  height: 500px;
+  background-image: url("../img/Women.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top center;
+  float: right;
+  margin-right: 5%;
+  margin-top: 5%;
+}
+
+#img-men {
+  width: 280px;
+  height: 500px;
+  background-image: url("../img/Men.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top center;
+  float: left;
+  margin-left: 5%;
+  margin-top: 5%;
+}
+
+.ant-carousel .slick-dots li.slick-active button {
+  background: #e7ab3c;
+  opacity: 0.3;
+  border: 0.5px solid #b47c16;
+}
+
+.ant-carousel .slick-dots li button {
+  background-color: #e7ab3c;
+  padding-top: 8px;
+
+  border: 0.5px solid #b47c16;
+}
+
+.ant-carousel .slick-dots li button {
+  opacity: 1;
+}

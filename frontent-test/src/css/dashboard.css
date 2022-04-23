@@ -1,0 +1,11 @@
+.ant-layout-header {
+  background: #e7ab3c;
+}
+
+.ant-layout-sider {
+  background: #212121;
+}
+
+.ant-layout-content {
+  height: 100vh;
+}
